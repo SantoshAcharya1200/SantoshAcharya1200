@@ -9,7 +9,6 @@
 
 - 📄 Know about my experiences [Resume](https://github.com/SantoshAcharya1200/SantoshAcharya1200/blob/main/resume_santosh%20acharya.pdf)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
