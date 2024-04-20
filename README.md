@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **santosh.acharya1200@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://github.com/SantoshAcharya1200/SantoshAcharya1200/blob/main/resume_santosh%20acharya.pdf)
 
 <p align="left">
 </p>
